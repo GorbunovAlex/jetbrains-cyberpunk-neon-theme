@@ -377,7 +377,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="f70312" />
+        <option name="FOREGROUND" value="d627e3" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -395,7 +395,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="732936" />
+        <option name="BACKGROUND" value="060614" />
         <option name="ERROR_STRIPE_COLOR" value="f5406d" />
       </value>
     </option>
