@@ -1,13 +1,13 @@
 <idea-plugin>
 
-    <id>dev.kolychev.jetbrains-cyberpunk-neon-theme</id>
-    <name>Cyberpunk Neon Theme</name>
-    <version>1.0.5</version>
+    <id>dev.GorbunovAlex.jetbrains-cyberpunk-neon-theme-updated</id>
+    <name>Cyberpunk Neon Theme Updated</name>
+    <version>0.0.1</version>
     <category>UI</category>
-    <vendor email="aleksandr@kolychev.dev" url="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Aleksandr Kolychev</vendor>
+    <vendor email="alex.gorbunov.de@gmail.com" url="https://github.com/GorbunovAlex/jetbrains-cyberpunk-neon-theme">Alexander Gorbunov</vendor>
 
     <description><![CDATA[
-        A dark theme inspired by <a href="https://github.com/roboron3042/cyberpunk-neon">Cyberpunk-Neon</a> project
+        A dark theme inspired by <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Cyberpunk-Neon</a> project. Just forked and updated.
         <br /><br />
         To install:
         <ul>
@@ -19,39 +19,17 @@
         <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Screenshots</a>
         <br/>
         <br/>
-        <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Report an issue</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Make a suggestion</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">GitHub</a>
+        <a href="https://github.com/GorbunovAlex/jetbrains-cyberpunk-neon-theme/issues">Report an issue</a>  |  <a href="https://github.com/GorbunovAlex/jetbrains-cyberpunk-neon-theme/issues">Make a suggestion</a>  |  <a href="https://github.com/GorbunovAlex/jetbrains-cyberpunk-neon-theme">GitHub</a>
         <br /><br />
 
-        The theme is open source under the <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/blob/master/LICENSE">MIT license</a>.<br/>
+        The theme is open source under the <a href="https://github.com/GorbunovAlex/jetbrains-cyberpunk-neon-theme/blob/master/LICENSE">MIT license</a>.<br/>
     ]]>
     </description>
 
     <change-notes><![CDATA[
-      <b>1.0.5</b>
+      <b>0.0.1</b>
       <ul>
-          <li>Update supported versions</li>
-      </ul>
-      <b>1.0.4</b>
-      <ul>
-          <li>Update supported versions (add 2024.1)</li>
-          <li>Fix CompletionPopup</li>
-      </ul>
-      <b>1.0.3</b>
-      <ul>
-          <li>Update supported versions</li>
-      </ul>
-      <b>1.0.2</b>
-      <ul>
-          <li>Remove screenshots from the description</li>
-      </ul>
-      <b>1.0.1</b>
-      <ul>
-          <li>Update plugin icon</li>
-          <li>Fix tabbed pane header color</li>
-      </ul>
-      <b>1.0.0</b>
-      <ul>
-          <li>Initial implementation of the theme</li>
+          <li>Theme forked and updated</li>
       </ul>
     ]]>
     </change-notes>
